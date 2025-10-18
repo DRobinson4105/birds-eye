@@ -1,6 +1,6 @@
 # BirdsEye
 
-BirdsEye is a real-time navigation app that analyzes lane-level traffic flow along a user's route using live traffic camera feeds from the Florida Department of Transportation (FDOT) to give live updates to the user about the fastest lane on their route and whether traffic is building up, clearing, or consistent.
+BirdsEye is a real-time navigation app that analyzes lane-level traffic flow along a user's route using live traffic camera feeds to give updates to the user.
 
 ## Inspiration
 
